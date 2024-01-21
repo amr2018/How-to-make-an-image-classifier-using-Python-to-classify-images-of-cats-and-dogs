@@ -1,4 +1,4 @@
-
+# dataset https://www.kaggle.com/datasets/erkamk/cat-and-dog-images-dataset?resource=download&select=y.pickle
 from sklearn.svm import LinearSVC
 from PIL import Image
 import numpy as np
